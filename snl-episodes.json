@@ -1,0 +1,127 @@
+{
+	"episode": [
+		{
+			"id": 1,
+			"season": {
+				"number": 1,
+				"episode": 1,
+				"premiere": true,
+				"finale": false,
+				"holiday": false,
+				"special": false,
+			},
+			"date": "1975-11-12T04:30:00.000Z",
+			"host": "George Carlin",
+			"musical_guest": ["Billy Preston", "Janis Ian"],
+			"contents": {
+				[
+					{
+						"type": "cold",
+						"description": "(JOB) mimics wolverine phrases & heart attack of English teacher (MOD)"
+					},
+					{
+						"type": "mono",
+						"description": "host does stand-up about football & baseball terminology differences"
+					},
+					{
+						"type": "COMM",
+						"description": "New Dad insurance covers all your family's needs, not just financial ones"
+					},
+					{
+						"type": "song",
+						"description": "Billy Preston performs \"Nothing From Nothing\""
+					},
+					{
+						"type": "skit",
+						"description": "sleeping juror (GIR) interprets a piece of evidence as a pick-up line"
+					},
+					{
+						"type": "misc",
+						"description": "Andy Kaufman [real] lip-syncs the Mighty Mouse theme song"
+					},
+					{
+						"type": "misc",
+						"description": "host does observational stand-up about many different topics"
+					},
+					{
+						"type": "song",
+						"description": "Janis Ian performs \"At Seventeen\""
+					},
+					{
+						"type": "show",
+						"description": "Victims Of Shark Bite- (JOB) falsely claims to have had limbs bitten off"
+					},
+					{
+						"type": "COMM",
+						"description": "CHC describes how Jamitol allows his wife MOD to be productive"
+					},
+					{
+						"type": "MISC",
+						"description": "Paul Simon [real] announces he'll be hosting SNL next week"
+					},
+					{
+						"type": "news",
+						"description": "LAN reports from the Blaine Hotel on its latest murder victim"
+					},
+					{
+						"type": "COMM",
+						"description": "a child-proof safety cap makes Triopenin arthritis medicine unobtainable"
+					},
+					{
+						"type": "misc",
+						"description": "Ploobis (Jim Henson) & Scred (Jerry Nelson) visit Mighty Favog (Frank Oz)"
+					},
+					{
+						"type": "misc",
+						"description": "host does stand-up about blue food, vitamins, oxymorons"
+					},
+					{
+						"type": "FILM",
+						"description": "\"The Impossible Truth\" by Albert Brooks- newsreel reports unlikely items"
+					},
+					{
+						"type": "skit",
+						"description": "Bee Hospital- new fathers find out where their offspring rank in the hive"
+					},
+					{
+						"type": "COMM",
+						"description": "call Academy of Better Careers now to become a stand-by operator"
+					},
+					{
+						"type": "misc",
+						"description": "Valri Bromfield [real] portrays teacher, high school volleyball player"
+					},
+					{
+						"type": "FILM",
+						"description": "\"Show Us Your Guns\"- SNL goes to the streets to view citizens' firearms"
+					},
+					{
+						"type": "misc",
+						"description": "host does stand-up about the relationship between God, man, religion"
+					},
+					{
+						"type": "song",
+						"description": "Billy Preston performs \"Fancy Lady\""
+					},
+					{
+						"type": "skit",
+						"description": "(DAA) breaks into house of (JOB) & (GIR) to show need for home security"
+					},
+					{
+						"type": "COMM",
+						"description": "gullible people will appreciate the Triple-Trac shaver's tricky bladework"
+					},
+					{
+						"type": "song",
+						"description": "Janis Ian performs \"In The Winter\""
+					},
+					{
+						"type": "misc",
+						"description": "at closing, host plugs his new album"
+					},
+				]
+			}
+		}
+	]
+
+}
